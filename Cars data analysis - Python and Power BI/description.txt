@@ -1,0 +1,2 @@
+Cleaned the data using Pandas
+Made a dashboard using Power BI for visualization
