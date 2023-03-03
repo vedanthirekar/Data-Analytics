@@ -1,0 +1,2 @@
+Created a Tableau Dashboard to display video game sales data.
+Ploted various graphs using bar chart, pi chart, heat maps and line graphs
