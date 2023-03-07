@@ -1,2 +1,2 @@
-Cleaned CSGO teams and players dataset using pandas
+Cleaned CSGO teams and players dataset using pandas and stored them in new csv files.
 Created Power BI dashboard to display top players, teams etc.
